@@ -124,3 +124,8 @@ h2 {
   font-weight: 500;
   font-size:20px;
 }
+.bullet{
+  background: red;
+  width: 20px;
+  height: 20px;
+}
