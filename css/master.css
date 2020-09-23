@@ -43,6 +43,7 @@ h2{
   background: green;
 }
 .piedavajums{
+  position: relative;
   padding:5px;
   width: 30%;
   height: 300px;
