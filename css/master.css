@@ -37,3 +37,12 @@ h1 {
 h2{
     font-size: 18px;
 }
+.placeholder{
+  height: 100px;
+}
+.piedavajums{
+  height: 300px;
+}
+.cena{
+  text-align: center;
+}
