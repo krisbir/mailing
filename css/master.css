@@ -22,14 +22,17 @@ body {
     height: 200px;
     margin: 0 auto;
 }
-.bilde{
-  max-height: 100px;
+.bilde {
+    margin: 10px 0;
+    max-height: 100px;
 }
 h1, h2, h3, h4{
   margin:0;
 }
-h1{
-  font-size: 22px;
+h1 {
+    padding: 5px 0;
+    font-size: 22px;
+    margin: 10px 0;
 }
 h2{
     font-size: 18px;
