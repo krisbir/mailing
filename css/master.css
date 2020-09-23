@@ -42,15 +42,20 @@ h2{
     min-height: 50%;
     background: linear-gradient(45deg, #b3b3b3, transparent);
 }
-.piedavajums{
-  position: relative;
-  padding:5px;
-  width: 30%;
-  height: 300px;
+.piedavajums {
+    border: 1px solid red;
+    border-radius: 2px;
+    position: relative;
+    padding: 5px;
+    width: 30%;
+    height: 300px;
+    margin: 0 10px;
 }
 .piedavajumi{
   display:flex;
 }
-.cena{
-  text-align: center;
+.cena {
+    font-size: 25px;
+    text-align: center;
+    padding: 10px 0;
 }
