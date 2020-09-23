@@ -3,6 +3,9 @@ body {
     margin: 0 auto;
     padding:5px;
 }
+.body{
+    padding: 15px
+}
 .header {
     margin: 0 auto;
     height: 62px;
@@ -45,6 +48,7 @@ h1 {
 h2 {
     padding: 10px 0;
     font-size: 18px;
+    text-align: center;
 }
 .akcijas{
     padding-top: 20px;
@@ -97,7 +101,7 @@ h2 {
     position: relative;
     max-width: 210px;
     height: 250px;
-    margin: 0 auto;
+    margin: 10px auto;
 }
   .piedavajumi {
       padding: 10px;
@@ -141,6 +145,7 @@ h2 {
     color: white;
     border-radius: 5px;
 }
-.info{
-  width: 70%
+.info {
+    width: 60%;
+    padding: 10px;
 }
