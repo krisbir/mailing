@@ -64,14 +64,15 @@ h2{
     height: 10%;
     position: absolute;
 }
-.circle{
-    background: green;
-    width: 40%;
+.circle {
+    background: red;
+    color: white;
+    width: 70px;
     border-radius: 100px;
     height: 50px;
-    top: 10px;
-    left: 10px;
-    height: 10%;
+    top: -6px;
+    right: -6px;
+    height: 70px;
     position: absolute;
 }
 .piedavajums {
