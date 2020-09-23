@@ -127,3 +127,11 @@ h2 {
 .options{
   text-align: left;
 }
+.piedavajums{
+  display: inline-block;
+}
+.pirkt{
+  width: 30%;
+}
+.info{
+  width: 70%
