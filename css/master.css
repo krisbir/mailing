@@ -1,0 +1,13 @@
+.header{
+    margin: 0 auto;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.icons{
+    max-width: 33%;
+}
+.benefits{
+  max-width: 90%;
+  margin:0 auto;
+}
