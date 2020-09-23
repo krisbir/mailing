@@ -129,11 +129,17 @@ h2 {
 }
 .piedavajums {
     display: flex;
-    width: 80%;
-    margin: 0 auto;
+    width: 90%;
+    margin: 5px auto;
+    margin-top: 10px;
 }
 .pirkt {
+    text-align: center;
     width: 30%;
+    padding: 5px;
+    background: #dedede;
+    color: white;
+    border-radius: 5px;
 }
 .info{
   width: 70%
