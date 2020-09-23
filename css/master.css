@@ -134,7 +134,6 @@ h2 {
 }
 .piedavajums {
     display: flex;
-    width: 90%;
     margin: 5px auto;
     margin-top: 10px;
 }
@@ -150,6 +149,6 @@ h2 {
     border-radius: 5px;
 }
 .info {
-    width: 70%;
+    width: 71%;
     padding: 0 10px;
 }
