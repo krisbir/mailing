@@ -118,3 +118,10 @@ h2 {
 .texts{
   padding:5px;
 }
+.pied_apraksts{
+  text-align: center;
+}
+.cena{
+  font-weight: 500;
+  font-size:20px;
+}
