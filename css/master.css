@@ -45,11 +45,20 @@ h2{
     min-height: 50%;
     background: linear-gradient(45deg, #b3b3b3, transparent);
 }
+.kategorija{
+  width:50%;
+  height: 10%;
+  background:red;
+}
+.square{
+  background: green;
+  width:40%;
+  height: 10%;
+}
 .piedavajums {
     border: 1px solid red;
     border-radius: 2px;
     position: relative;
-    padding: 5px;
     width: 30%;
     height: 250px;
     margin: 0 5px;
