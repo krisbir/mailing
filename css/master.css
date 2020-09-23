@@ -143,9 +143,10 @@ h2 {
     vertical-align: middle;
     text-align: center;
     width: 20%;
+    border: 2px solid red;
     padding: 10px;
-    background: #dedede;
-    color: white;
+    background: #f9f9f9;
+    color: #060606;
     border-radius: 5px;
 }
 .info {
