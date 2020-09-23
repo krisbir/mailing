@@ -37,6 +37,9 @@ h1 {
 h2{
     font-size: 18px;
 }
+.akcijas{
+    padding-top: 20px;
+}
 .placeholder {
     width: 100%;
     min-height: 50%;
@@ -48,8 +51,8 @@ h2{
     position: relative;
     padding: 5px;
     width: 30%;
-    height: 300px;
-    margin: 0 10px;
+    height: 250px;
+    margin: 0 5px;
 }
 .piedavajumi{
   display:flex;
