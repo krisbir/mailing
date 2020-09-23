@@ -67,7 +67,7 @@ h2 {
 .square {
     background: #fe0000;
     width: fit-content;
-    line-height: 27px;
+    line-height: 25px;
     font-size: 15px;
     color: white;
     padding: 2px 5px;
@@ -93,16 +93,15 @@ h2 {
     border: 2px solid red;
     border-radius: 2px;
     position: relative;
-    width: 97%;
-    max-width: 230px;
-    height: 270px;
+    max-width: 210px;
+    height: 230px;
     margin: 0 auto;
-  }
+}
   .piedavajumi {
       padding: 10px;
   }
-.cena {
-    font-size: 25px;
-    text-align: center;
-    padding: 10px 0;
-}
+  .cena {
+      font-size: 25px;
+      text-align: center;
+      padding: 20px 0;
+  }
