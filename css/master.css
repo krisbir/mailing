@@ -128,8 +128,9 @@ h2 {
   font-weight: 500;
   font-size:20px;
 }
-.options{
-  text-align: left;
+.options {
+    padding: 0;
+    text-align: left;
 }
 .piedavajums {
     display: flex;
@@ -138,14 +139,16 @@ h2 {
     margin-top: 10px;
 }
 .pirkt {
+    display: table;
+    vertical-align: middle;
     text-align: center;
-    width: 30%;
-    padding: 5px;
+    width: 20%;
+    padding: 10px;
     background: #dedede;
     color: white;
     border-radius: 5px;
 }
 .info {
-    width: 60%;
-    padding: 10px;
+    width: 70%;
+    padding: 0 10px;
 }
