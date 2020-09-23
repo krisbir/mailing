@@ -48,7 +48,7 @@ h2{
   height: 300px;
 }
 .piedavajumi{
-  display:inline-block;
+  display:flex;
 }
 .cena{
   text-align: center;
