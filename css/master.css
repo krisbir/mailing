@@ -42,7 +42,8 @@ h1 {
     color: #fe0000;
     text-transform: uppercase;
 }
-h2{
+h2 {
+    padding: 10px 0;
     font-size: 18px;
 }
 .akcijas{
